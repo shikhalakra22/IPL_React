@@ -1,14 +1,23 @@
-## List of all major Librarires and Framework
+# Librarires and Framework
 1. React js 
-  - the project is bootstrapped with create react app
-2. React-Hooks
-  - to render the state and provide some functionaity
-3. React-Material-UI
-  - for adding styling and build responsive layout
+  - Developed using react app
+2. React-Material-UI
+  - for building responsive layout amd styling
+3. React-Hooks
+  - provide some functionaity
 4. AdmintLTE3 Dashboard Plugin eg - chart.js, theme, JVQ map etc.
-  - to add theme and all of its plugin which is used to make dahsboard look more effective
+  - to add theme and use its plugin to make dahsboard look more attractive
 5. HTML & CSS
-  - for basic styling purpose
+  - styling 
 6. Jquery
   - to add chart.js element in dashboard
+  
+  
+# Page Load time 
+used the Date object to create a timestamp when you page began loading, and calculate the difference to the time when the page has been fully loaded:
+ Date.now()-timerStart
+ Page Load time is 116ms
+ 
+ ![Screenshot from 2020-11-10 22-52-41](https://user-images.githubusercontent.com/48185254/98711504-11350800-23ab-11eb-8f45-fe8d406a2db8.png)
+
   
