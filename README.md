@@ -18,6 +18,8 @@ used the Date object to create a timestamp when you page began loading, and calc
  Date.now()-timerStart
  Page Load time is 116ms
  
- ![Screenshot from 2020-11-10 22-52-41](https://user-images.githubusercontent.com/48185254/98711504-11350800-23ab-11eb-8f45-fe8d406a2db8.png)
+
+
+![Screenshot from 2020-11-10 23-28-02](https://user-images.githubusercontent.com/48185254/98712662-953bbf80-23ac-11eb-9cf2-197c17ce449a.png)
 
   
